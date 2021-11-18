@@ -37,3 +37,24 @@ body {
   margin: 0 auto;
   background-color: #f4f1ec;
 }
+
+
+
+
+/* Tablet Styles */
+@media only screen and (min-width: 768px) {
+  .header-tweets {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+
+/* Desktop styles */
+@media only screen and (min-width: 1024px) {
+  .header-tweets {
+    display: flex;
+    flex-direction: row;
+  }
+}
+

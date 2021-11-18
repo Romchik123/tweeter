@@ -1,19 +1,18 @@
 /* nav bar :: */
-nav {
-  height: 120px;
-  background-color: #4056a1;
-  color: #ffffff;
-  padding: 1.5em;
-  z-index: 0;
-
-  position: sticky; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-}
 
 .tweeter-span-and-icon {
   display: flex;
   justify-content: space-between;
+
+  height: 120px;
+  background-color: #4056a1;
+  color: #ffffff;
+  padding: 1.5em;
+  z-index: 10;
+
+  position: sticky; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
 .new-tweet {
