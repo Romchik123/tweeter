@@ -28,16 +28,13 @@ body {
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
 
-#nav-tweeter {
-  font-family: "Bungee", cursive;
-}
+
 
 .container {
   width: 90%;
   margin: 0 auto;
   background-color: #f4f1ec;
 }
-
 
 
 
@@ -48,6 +45,7 @@ body {
     flex-direction: column;
   }
 }
+
 
 
 /* Desktop styles */

@@ -1,5 +1,13 @@
 /* nav bar :: */
 
+
+
+#nav-tweeter {
+  font-family: "Bungee", cursive;
+}
+
+
+
 .tweeter-span-and-icon {
   display: flex;
   justify-content: space-between;
