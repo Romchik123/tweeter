@@ -16,3 +16,9 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+
+## Screenshots
+
+![Screenshot of navbar, user profile, tweet box and a new tweet](https://github.com/Romchik123/tweeter/blob/master/docs/desktop-tweet-box.png?raw=true)
+![Screenshot shows fixed navbar with a tweet timer](https://github.com/Romchik123/tweeter/blob/master/docs/tweet-timer.png?raw=true)
+![Screenshot shows the mobile version](https://github.com/Romchik123/tweeter/blob/master/docs/mobile-tweet-box.png?raw=true)
