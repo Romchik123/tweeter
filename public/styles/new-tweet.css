@@ -44,8 +44,14 @@ main section .tweet-class-counter {
 
 
 
-/* Created tweets ::   /////////////////////////////////////// */
 
+
+
+/* Created tweets ::   /////////////////////////////////////// */
+/* (Classes inside my client.js file) */
+
+
+/* Styles for the tweet that made through Ajax :: */
 .created-tweet {
   border: solid black;
   padding: 20px;
@@ -53,14 +59,15 @@ main section .tweet-class-counter {
 }
 
 
-
+/* Header   /////////////////////////////////////////*/
+/* Each Tweet top right tag :: */
 .icon-header-email {
   display: flex;
   justify-content: space-between;
 }
 
 
-
+/* Tweet username top left :: */
 .icon-header {
   padding-bottom: 40px;
   display: flex;
@@ -81,6 +88,7 @@ main section .tweet-class-counter {
 
 
 
+/* Article   /////////////////////////////////////////*/
 .created-tweet article {
   font-size: large;
   font-weight: 600;
@@ -100,6 +108,7 @@ main section .tweet-class-counter {
 
 
 
+/* Footer   /////////////////////////////////////////*/
 .icon-footer {
   display: flex;
   justify-content: space-between;
