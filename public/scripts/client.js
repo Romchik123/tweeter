@@ -13,8 +13,11 @@ const escape = function(str) {
 
 // Creating Ajax html tweet element ::
 const createTweetElement = (tweetData) => {
+  
+  // Tweet timer ::
   const tweetCreatedAt = timeago.format(tweetData.created_at);
 
+  // HTML that we are injecting by Ajax ::
   let $tweet = `<section class="created-tweet">
       <div class="icon-header-email">
         <div class="icon-header">
