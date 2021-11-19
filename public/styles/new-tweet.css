@@ -4,9 +4,13 @@ main button {
   font-family: "Bungee", cursive;
 }
 
+
+
 .counter {
   font-family: "Bungee", cursive;
 }
+
+
 
 main textarea {
   background: none;
@@ -15,6 +19,8 @@ main textarea {
   border-bottom: 4px solid;
 }
 
+
+
 main section .tweet-class-counter {
   display: flex;
   justify-content: space-between;
@@ -22,9 +28,12 @@ main section .tweet-class-counter {
   margin-bottom: 15px;
 }
 
+
+
 .warning {
   color: red;
 }
+
 
 
 .warning-1, .warning-2{
@@ -35,7 +44,7 @@ main section .tweet-class-counter {
 
 
 
-/* Created tweet ::   /////////////////////////////////////// */
+/* Created tweets ::   /////////////////////////////////////// */
 
 .created-tweet {
   border: solid black;
@@ -43,30 +52,42 @@ main section .tweet-class-counter {
   margin: 2rem 6rem;
 }
 
+
+
 .icon-header-email {
   display: flex;
   justify-content: space-between;
 }
+
+
 
 .icon-header {
   padding-bottom: 40px;
   display: flex;
 }
 
+
+
 .icon-header header {
   padding: 0 10px;
 }
+
+
 
 .icon-header-email span {
   font-weight: 600;
   color: rgba(211, 207, 207, 0.74);
 }
 
+
+
 .created-tweet article {
   font-size: large;
   font-weight: 600;
   word-wrap: break-word;
 }
+
+
 
 .created-tweet hr {
   position: relative;
@@ -77,6 +98,8 @@ main section .tweet-class-counter {
   margin-bottom: 50px;
 }
 
+
+
 .icon-footer {
   display: flex;
   justify-content: space-between;
@@ -84,9 +107,13 @@ main section .tweet-class-counter {
   font-weight: bold;
 }
 
+
+
 .icon-footer div {
   color: #4056a1;
 }
+
+
 
 .icon-footer div :hover{
   color: rgba(194, 126, 0, 0.808);
